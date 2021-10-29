@@ -1,7 +1,7 @@
 import requests
 from selenium import webdriver
 import time
-
+where is it
 driver=webdriver.Chrome("/home/divya/Desktop/Python/webdriver/chromedriver")
 driver.get('http://www.irctc.com/')
 
